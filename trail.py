@@ -1,6 +1,5 @@
-for i in range (1, 10):
-    print(i)
-    if i == 5:
-        print("erroda")
-    else:
-        print("ok")
+number = input("Enter a number: ")
+if number%2 == 0:
+    print("Even")
+else:
+    print("odd")
