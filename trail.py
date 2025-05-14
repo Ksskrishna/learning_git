@@ -4,6 +4,3 @@ for i in range (1, 10):
         print("erroda")
     else:
         print("ok")
-    print("ok")
-    print("ok")
-    print("ok")
